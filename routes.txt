@@ -1,0 +1,10 @@
+Stop: Lahore Fort
+Destination: Mall Road
+Distance: 10 km
+Time: 20 min
+-----------------------------
+Stop: Rawalpindi Road
+Destination: GT Road
+Distance: 250 lm
+Time: 250 min
+-----------------------------
